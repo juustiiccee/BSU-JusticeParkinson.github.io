@@ -1,2 +1,4 @@
 theme: jekyll-theme-minimal
 Title: Justices Git Repo
+domain: juustiiccee.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://BSU-JusticeParkinson.github.io 
